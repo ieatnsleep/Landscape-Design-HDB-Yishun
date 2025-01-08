@@ -1,6 +1,6 @@
 # Landscape Design work on Yishun Avenue
 
-Welcome to my GitHub repository! This project explores 
+Welcome to my GitHub repository! This project explores my landscape designs and though process in designing given a space in the Yishun housing estate. 
 
 ## Skills Demonstrated:
 
